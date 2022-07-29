@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Faca açougueiro",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Churrasqueira",
+      "price": "800.89"
+    },
+    {
+      "id": 3,
+      "name": "Tabua de carne madeira",
+      "price": "200.89"
+    }
+  ]
+}
